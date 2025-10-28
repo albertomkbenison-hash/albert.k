@@ -1,3 +1,7 @@
+/*Author: albert.k
+Description: this a number guess in java
+Virsion: NGG1.1
+*/
 import java.util.Random;
 import java.util.Scanner;
 
@@ -58,4 +62,5 @@ public class NumberGuessingGame {
         
         scanner.close();
     }
+
 }
