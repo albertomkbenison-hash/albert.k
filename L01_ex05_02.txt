@@ -1,4 +1,9 @@
-/* Java allows you to combine assignment and addition operators using shorthand operators. */
+/*
+@auther: albert.k
+description: java combines assignment and addition operators using shorthand operators
+version: NGG1.7
+*/
+Java allows you to combine assignment and addition operators using shorthand operators. 
 
 public class L01_ex05_02 
 { 
@@ -10,4 +15,5 @@ public class L01_ex05_02
       System.out.println("In 10 years you will be”); 
       System.out.println(age); 
    } 
+
 }
