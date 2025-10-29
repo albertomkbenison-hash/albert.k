@@ -1,7 +1,7 @@
 /*
 @auther: hello world
 descripttion: albert.k
-@virsion: NGG1.1
+@version: NGG1.1
 */
 public class L01_ex01 
 { 
@@ -11,4 +11,5 @@ System.out.println(“Hello world.”);
 } 
 
 }
+
 
