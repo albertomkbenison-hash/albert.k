@@ -1,5 +1,9 @@
-
-/* With char, we can store a single character. */
+*/
+@auther: alberto.k
+description: with char, we can store a single character 
+@version: NGG1.5
+*/
+With char, we can store a single character. 
 
 public class L01_ex04_01_03 
 { 
@@ -9,4 +13,5 @@ public class L01_ex04_01_03
        
       System.out.println( initial ); 
    } 
+
 }
