@@ -1,4 +1,9 @@
-/*The following code creates a variable that stores integers (numbers).*/
+/*
+@auther: albert.k
+description: this variable stores integers
+@version: NGG1.3
+*/
+The following code creates a variable that stores integers (numbers).
  
 public class L01_ex03_01 
 { 
@@ -6,4 +11,5 @@ public class L01_ex03_01
    { 
       int myNumber; 
    } 
+
 }
