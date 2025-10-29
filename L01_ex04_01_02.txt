@@ -2,7 +2,7 @@
 @auther: albert.k
 description: if you use int to perform the exact same operation you will not get an undesirable resul
 @version: NGG1.5
-8/
+*/
 if you use int to perform the exact same operation (L01_ex04_01_01), you will not get an undesirable result.
  
 public class L01_ex04_01_02 
@@ -16,3 +16,4 @@ public class L01_ex04_01_02
    } 
 
 } 
+
