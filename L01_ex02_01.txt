@@ -1,7 +1,7 @@
 /*
 @author: albert.k
 description: 5 + 10
-@virsion: NGG0.11
+@version: NGG0.11
 */
 //Example 2: Writing a text on the screen 
 public class L01_ex02_01 
@@ -12,5 +12,6 @@ System.out.println( 5 + 10 );
 } 
 
 } 
+
 
 
