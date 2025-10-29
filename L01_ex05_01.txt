@@ -1,4 +1,9 @@
-/* Here the current value of a variable is used, modified, and then reassigned back to the same variable.*/
+/*
+@auther: albert.k
+description: modified, and then reassigned back to the same variable.
+version: NGG1.6
+*/
+Here the current value of a variable is used, modified, and then reassigned back to the same variable.
 
 public class L01_ex05_01 
 { 
@@ -10,4 +15,5 @@ public class L01_ex05_01
       System.out.println("In 10 years you will be”); 
       System.out.println(age) 
    } 
+
 } 
