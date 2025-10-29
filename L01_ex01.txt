@@ -1,8 +1,13 @@
-
+/*
+auther: hello world
+descripttion: albert.k
+virsion: NGG1.1
+*/
 public class L01_ex01 
 { 
 public static void main (String[] args) 
 { 
 System.out.println(“Hello world.”); 
 } 
+
 }
