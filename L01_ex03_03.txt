@@ -1,4 +1,9 @@
- /*Adding values to the variable, after creating it.(method 2)*/
+ /*
+@auther: albert.k
+description: adding values to the variable
+@version: NGG1.0
+*/
+Adding values to the variable, after creating it.(method 2)
 
 public class L01_ex03_03 
 { 
@@ -6,4 +11,5 @@ public class L01_ex03_03
    { 
       int myNumber = 100; 
    } 
+
 } 
